@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frosty1459
 - 👀 I’m interested in learning more languages and developing my current knowledge.
-- 🌱 I’m currently learning javascript and java.
+- 🌱 I’m self taught and constantly learning.
 - More info will be added later...
 
 
